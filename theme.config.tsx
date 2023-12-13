@@ -30,12 +30,12 @@ const config: DocsThemeConfig = {
       </>
   ),
   project: {
-    link: 'https://github.com/HyperScripts-FiveM/HyperScripts-Docs/tree/main/pages',
+    link: 'https://github.com/HyperScripts-FiveM',
   },
   chat: {
     link: 'https://pribiovic.net/discord',
   },
-  docsRepositoryBase: 'https://github.com/HyperScripts-FiveM`',
+  docsRepositoryBase: 'https://github.com/HyperScripts-FiveM/HyperScripts-Docs`',
   footer: {
     text: 'HyperScripts',
   },
